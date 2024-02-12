@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(66, 66, 66);
+    font-family: cursive;
+    color: #fff
+  }
+
+  #movingButton {
+      position: absolute;
+      width: 100px;
+      height: 50px;
+      background-color: #bc00b9;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border-radius: 5px;
+  }
+  .yes{
+    background-color: #bc00b9;
+    color: #fff;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .reacting{
+    font-family: cursive;
+  }
+  .name1{
+    color: white;
+  }
